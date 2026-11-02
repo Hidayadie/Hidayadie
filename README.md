@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-it is what it is
+it is what it is \
+my dc: hytrin (Trinsky) \
+\
+have a good day y'all
 <!--
 **Hidayadie/Hidayadie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
