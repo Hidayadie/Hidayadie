@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-it is what it is \
+insert placeholder text here \
 my dc: hytrin (Trinsky) \
 \
-have a good day y'all
+i'm too lazy to think of what to put here lol\
+anyway, welcome and have a good day y'all
 <!--
 **Hidayadie/Hidayadie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
